@@ -14,4 +14,5 @@ By creating blogs this series, my purpose is to learn Jekyll rule to set up my p
 I have found some links(below). Hence, in this series, all posts will present what I found interesting while learning advance Java.
 
 `link: https://www.quora.com/What-is-best-tutorial-for-advanced-Java`
+
 `link: https://github.com/MaximAbramchuck/awesome-interview-questions#java`
